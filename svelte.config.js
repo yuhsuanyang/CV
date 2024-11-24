@@ -13,9 +13,9 @@ const config = {
     // See https://kit.svelte.dev/docs/adapters for more information about adapters.
     appDir: "app",
     adapter: adapter(),
-    paths: {
-      base: process.env.NODE_ENV === "production" ? "/CV" : "",
-    },
+    //    paths: {
+    //      base: process.env.NODE_ENV === "production" ? "/CV" : "",
+    //    },
   },
 };
 
