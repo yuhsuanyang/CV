@@ -39,7 +39,7 @@
                  <li>Trimester 1 GPA: 4.5/5</li>
              </div>
              <div class="flex gap-4">
-                 <li>Coursework project: Optiver Realized Volatility Prediction (This was a previous kaggle competition that aimed to use machine learning to predict 10-minute interval volatility with granular financial data and improve forecast precision and support Optiver’s pricing algorithms.) </li>
+                 <li>Coursework project: Portfolio Allocation with Reinforcement Learning (Did the RL algorithms from scartch and apply them to optimize the allocation between US bonds and emerging market stocks. The results beat the Min-Variance method.)
              </div>
         </ExpSection>
 
