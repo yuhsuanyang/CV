@@ -71,6 +71,15 @@
 
     <div class="mx-8">
         <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Work Experience</div>
+
+        <ExpSection
+            institute="RV Capital Management"
+            location="Singapor"
+            position="Intern Analyst"
+            duration="Jan. 2025 - March 2025"
+            >
+            <li>Develop AI tools to automate the process of financial document parsing for the risk team.</li>
+        </ExpSection>
         <ExpSection
             institute="Sinopac Holdings"
             location="Taipei, Taiwan"
@@ -108,13 +117,13 @@
             <li>Learned about distribution computing system and GCP (Google Cloud Platform) during this two-day workshop held by Nanyang Technological University. </li>
             <li>Got hands-on experience of using Hadoop, Hive and Spark to perform data analyze.  </li>
         </ProjectSection>
-        <ProjectSection
+        <!--ProjectSection
             projectName="News Chatbot"
             duration="Nov. 2024"
             >
             <li>The chatbot, which was built upon RAG (Retrieval-Augmented Generation) using ollama language server and Langchain framework, can answer questions based on crawled news articles from thenextweb.com. </li>
             <li>The implementation details can be found at https://github.com/yuhsuanyang/news-chatbot</li>
-        </ProjectSection>
+        </ProjectSection-->
         <ExpSection
             institute="JPMorgan Chase & Co."
             location="www.theforage.com"
@@ -128,12 +137,12 @@
 
     <div class="mx-8">
         <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Technical Skills</div>
-        <div class="flex flex-wrap gap-x-2">
-            <SkillSet skillType="Programming Languages" skills="C++, Python, SQL, Golang"/>
+        <div class="grid grid-cols-2">
+            <SkillSet skillType="Programming" skills="C++, Python, SQL, Golang"/>
             <SkillSet skillType="AI & ML" skills="scikit-learn, Pytorch, Langchain"/>
             <SkillSet skillType="Finance" skills="Quantitative methods in risk and analysis"/>
-            <SkillSet skillType="Web development skills" skills="HTML, CSS, Svelte, Django"/>
-            <SkillSet skillType="Language proficiencies" skills="Mandarin(native), English(TOEIC 895, IELTS 7)"/>
+            <SkillSet skillType="Web development" skills="HTML, CSS, Svelte, Django"/>
+            <SkillSet skillType="Language proficiencies" skills="Mandarin(native), English(IELTS 7)"/>
         </div>
     </div>
 </div>
