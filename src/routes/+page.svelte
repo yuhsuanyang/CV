@@ -78,7 +78,7 @@
             position="Intern Analyst"
             duration="Jan. 2025 - March 2025"
             >
-            <li>Develop AI tools to automate the process of financial document parsing for the risk team.</li>
+            <li>Automate the process of financial document parsing for the risk team with LLM which reaches 90% accuracy.</li>
         </ExpSection>
         <ExpSection
             institute="Sinopac Holdings"
