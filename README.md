@@ -1,0 +1,2 @@
+- Preview on local: `yarn run dev`
+- Deploy on github page: `yarn run deploy`
