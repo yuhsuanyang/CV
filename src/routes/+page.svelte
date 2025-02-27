@@ -78,7 +78,9 @@
             position="Intern Analyst"
             duration="Jan. 2025 - March 2025"
             >
-            <li>Automate the process of financial document parsing for the risk team with LLM which reaches 90% accuracy.</li>
+            <li> This role implements LLM applications with LangChain to help with some business process in the hedge fund company.
+            <li>Automate financial document parsing task for the risk team by applying few-shot learning on LLM which reaches 90% accuracy.</li>
+            <li>Design a knowledge graph based file directory for large documents to improve the effectivenss of RAG systems.</li>
         </ExpSection>
         <ExpSection
             institute="Sinopac Holdings"
@@ -93,14 +95,14 @@
             <li>Dojo for rapid AI demonstration: Designed a platform for displaying the GenAI and LLM applications developed by DTD. Responsible for the frontend development.</li>
         </ExpSection>
 
-        <ExpSection
+        <!--<ExpSection
             institute="Taiwan Semiconductor Manufacturing Cooperation (TSMC)"
             location="Hsichu, Taiwan"
             position="IT Intern"
             duration="July 2019 - Aug. 2019"
             >
             <li>Outlier and anomalous patterns detection in time series using one-class SVM and statistical tests</li>
-        </ExpSection>
+        </ExpSection>-->
     </div>
     <div class="mx-8">
         <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Extracurricular Certificates and Projects</div>
@@ -137,9 +139,9 @@
 
     <div class="mx-8">
         <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Technical Skills</div>
-        <div class="grid grid-cols-2">
+        <div class="grid grid-cols-2 my-2">
             <SkillSet skillType="Programming" skills="C++, Python, SQL, Golang"/>
-            <SkillSet skillType="AI & ML" skills="scikit-learn, Pytorch, Langchain"/>
+            <SkillSet skillType="AI & ML" skills="scikit-learn, Pytorch, LangChain"/>
             <SkillSet skillType="Finance" skills="Quantitative methods in risk and analysis"/>
             <SkillSet skillType="Web development" skills="HTML, CSS, Svelte, Django"/>
             <SkillSet skillType="Language proficiencies" skills="Mandarin(native), English(IELTS 7)"/>
