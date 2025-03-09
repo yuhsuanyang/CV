@@ -12,7 +12,7 @@
     <div class="flex justify-center mx-8 my-4">
         <h1 class="text-3xl font-bold text-sky-700">Yu-Hsuan (Darcy) Yang</h1>
     </div>
-    <div class="mx-8 flex justify-between items-center">
+    <div class="mx-8 flex items-center">
         <div class="flex gap-4">
             <div>
                 <GeneralInfo icon="phone" info="(+886)953330882, (+65)88260500"/>
@@ -38,9 +38,9 @@
                  <li>Expect to graduate in June 2025</li>
                  <li>Trimester 1 GPA: 4.5/5</li>
              </div>
-             <div class="flex gap-4">
+             <!--div class="flex gap-4">
                  <li>Coursework project: Portfolio Allocation with Reinforcement Learning (Did the RL algorithms from scartch and apply them to optimize the allocation between US bonds and emerging market stocks. The results beat the Min-Variance method.)
-             </div>
+             </div-->
         </ExpSection>
 
         <ExpSection
@@ -78,9 +78,9 @@
             position="Intern Analyst"
             duration="Jan. 2025 - March 2025"
             >
-            <li> This role implements LLM applications with LangChain to help with some business process in the hedge fund company.
-            <li>Automate financial document parsing task for the risk team by applying few-shot learning on LLM which reaches 90% accuracy.</li>
-            <li>Design a knowledge graph based file directory for large documents to improve the effectivenss of RAG systems.</li>
+            <li> This role implements LLM applications with LangChain to help with some business processes in the hedge fund company.
+            <li>Automate financial document parsing task for the risk team by applying few-shot learning on LLM which reaches 90% accuracy and build Power BI dashboards on behalf of error analysis.</li>
+            <li>Design a RAG-based chatbot that works with long documents by efficiently summarizing them and constructing vector databases.</li>
         </ExpSection>
         <ExpSection
             institute="Sinopac Holdings"
@@ -94,38 +94,30 @@
             <li>Risk and control self-assessment automation: Developed a pipeline to summarize the assessment advices from the risk control department by LLM, clustering and classification. </li>
             <li>Dojo for rapid AI demonstration: Designed a platform for displaying the GenAI and LLM applications developed by DTD. Responsible for the frontend development.</li>
         </ExpSection>
-
-        <!--<ExpSection
-            institute="Taiwan Semiconductor Manufacturing Cooperation (TSMC)"
-            location="Hsichu, Taiwan"
-            position="IT Intern"
-            duration="July 2019 - Aug. 2019"
-            >
-            <li>Outlier and anomalous patterns detection in time series using one-class SVM and statistical tests</li>
-        </ExpSection>-->
     </div>
     <div class="mx-8">
         <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Extracurricular Certificates and Projects</div>
+        <ProjectSection
+            projectName="Dashboard to Dream Job: Career Success through Power BI Bootcamp"
+            duration="March. 2025"
+            >
+            <li>Navigate Power BI interfaces, data integrgrity maintenance and conduct data modeling.</li>
+            <li>Data preprocessing with DAX and optimize dashboards with other advanced visulization features. </li>
+
+        </ProjectSection>
+        <ProjectSection
+            projectName="Big Data Workshop"
+            duration="Nov. 2024"
+            >
+            <li>Learned about distribution computing system with GCP (Google Cloud Platform). Got hands-on experience of using Hadoop, Hive and Spark to perform data analyze.
+  </li>
+        </ProjectSection>
         <ProjectSection
             projectName="Bloomberg for Education"
             duration="Nov. 2024"
             >
             <li>Bloomberg Financial Fundamental: Gain knowledge of financial markets, risk and reward and porfolio management in the online courses.</li>
         </ProjectSection>
-        <ProjectSection
-            projectName="Big Data Workshop"
-            duration="Nov. 2024"
-            >
-            <li>Learned about distribution computing system and GCP (Google Cloud Platform) during this two-day workshop held by Nanyang Technological University. </li>
-            <li>Got hands-on experience of using Hadoop, Hive and Spark to perform data analyze.  </li>
-        </ProjectSection>
-        <!--ProjectSection
-            projectName="News Chatbot"
-            duration="Nov. 2024"
-            >
-            <li>The chatbot, which was built upon RAG (Retrieval-Augmented Generation) using ollama language server and Langchain framework, can answer questions based on crawled news articles from thenextweb.com. </li>
-            <li>The implementation details can be found at https://github.com/yuhsuanyang/news-chatbot</li>
-        </ProjectSection-->
         <ExpSection
             institute="JPMorgan Chase & Co."
             location="www.theforage.com"
