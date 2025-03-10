@@ -74,7 +74,7 @@
 
         <ExpSection
             institute="RV Capital Management"
-            location="Singapor"
+            location="Singapore"
             position="Intern Analyst"
             duration="Jan. 2025 - March 2025"
             >
