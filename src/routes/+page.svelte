@@ -36,7 +36,7 @@
              <!--li>Track: Intelligent Process Automation Specialisation</li-->
              <div class="flex gap-4">
                  <li>Expect to graduate in June 2025</li>
-                 <li>Trimester 1 GPA: 4.5/5</li>
+                 <li>GPA: 4.636363636363/5</li>
              </div>
              <!--div class="flex gap-4">
                  <li>Coursework project: Portfolio Allocation with Reinforcement Learning (Did the RL algorithms from scartch and apply them to optimize the allocation between US bonds and emerging market stocks. The results beat the Min-Variance method.)
@@ -91,8 +91,8 @@
             <li>Reinforcement learning in asset allocation: Aimed to maintain a portfolio of stocks that can beat the TWSE market based on their profile and transaction behaviors.</li>
             <li>Machine learning pipelines for customer analysis: Predicted the preferences of customers in certain financial products or campaigns based on their profile and transaction behaviors.</li>
             <li>Workload Orchestration: Optimized the utilization of computational resources in the development environment by k8s and docker. Currently working on single sign-on services.</li>
-            <li>Risk and control self-assessment automation: Developed a pipeline to summarize the assessment advices from the risk control department by LLM, clustering and classification. </li>
-            <li>Dojo for rapid AI demonstration: Designed a platform for displaying the GenAI and LLM applications developed by DTD. Responsible for the frontend development.</li>
+            <li>Risk and control self-assessment automation: Developed a pipeline to summarize the assessment advice from the risk control department by LLM, clustering and classification. </li>
+            <li>Dojo for rapid AI demonstration: Designed a platform for displaying the GenAI and LLM applications developed by DTD. Responsible for front-end development.</li>
         </ExpSection>
     </div>
     <div class="mx-8">
@@ -101,22 +101,22 @@
             projectName="Dashboard to Dream Job: Career Success through Power BI Bootcamp"
             duration="March. 2025"
             >
-            <li>Navigate Power BI interfaces, data integrgrity maintenance and conduct data modeling.</li>
-            <li>Data preprocessing with DAX and optimize dashboards with other advanced visulization features. </li>
+            <li>Navigate Power BI interfaces, data integrity maintenance and conduct data modeling.</li>
+            <li>Data preprocessing with DAX and optimizing dashboards with other advanced visualization features. </li>
 
         </ProjectSection>
         <ProjectSection
             projectName="Big Data Workshop"
             duration="Nov. 2024"
             >
-            <li>Learned about distribution computing system with GCP (Google Cloud Platform). Got hands-on experience of using Hadoop, Hive and Spark to perform data analyze.
+            <li>Learned about distribution computing systems with GCP (Google Cloud Platform). Got hands-on experience in using Hadoop, Hive and Spark to perform data analysis.
   </li>
         </ProjectSection>
         <ProjectSection
             projectName="Bloomberg for Education"
             duration="Nov. 2024"
             >
-            <li>Bloomberg Financial Fundamental: Gain knowledge of financial markets, risk and reward and porfolio management in the online courses.</li>
+            <li>Bloomberg Financial Fundamental: Gain knowledge of financial markets, risk and reward and portfolio management in the online courses.</li>
         </ProjectSection>
         <ExpSection
             institute="JPMorgan Chase & Co."
@@ -124,8 +124,8 @@
             position="Quantitative Research Virtual Experience Program"
             duration="Sept. 2024"
             >
-            <li>Credit risk analyze: Converted FICO scores into categorical data with hyperopt and used decision tree to predict the customers' probability of default by loan data.</li>
-            <li>Comodity storage contract price modeling: Use linear regression and cosine function to model both the periodicity and increment in natural gas data. Given injection, withdrawal and storage conditions (dates, rates, prices, cost, etc), calculated the value of the comodity contract.</li>
+            <li>Credit risk analysis: Converted FICO scores into categorical data with hyperopt and used decision trees to predict the customers' probability of default by loan data.</li>
+            <li>Commodity storage contract price modeling: Used linear regression and cosine function to model both the periodicity and increment in natural gas data. Given injection, withdrawal and storage conditions (dates, rates, prices, cost, etc), calculated the value of the commodity contract.</li>
         </ExpSection>
     </div>
 
