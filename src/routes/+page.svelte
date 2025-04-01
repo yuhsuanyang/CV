@@ -20,7 +20,7 @@
             </div>
             <div>
                 <GeneralInfo icon="github" info="https://github.com/yuhsuanyang"/>
-                <GeneralInfo icon="linkedin" info="https://www.linkedin.com/in/yu-hsuan-yang-506a3b161/"/>
+                <GeneralInfo icon="linkedin" info="https://www.linkedin.com/in/darcy-yu-hsuan-yang"/>
             </div>
         </div>
         <!--img src="/photo.jpeg" class="h-16"-->
