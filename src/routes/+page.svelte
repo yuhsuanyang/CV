@@ -80,7 +80,7 @@
             >
             <li> This role implements LLM applications with LangChain to help with some business processes in the hedge fund company.
             <li>Automate financial document parsing task for the risk team by applying few-shot learning on LLM which reaches 90% accuracy and build Power BI dashboards on behalf of error analysis.</li>
-            <li>Design a RAG-based chatbot that works with long documents by efficiently summarizing them and constructing vector databases.</li>
+            <li>Design a RAG-based lightweight chatbot that works with long documents by efficiently summarizing them and constructing vector databases. Improve the accurcy in the retrieval stage with a two-staged retrieval process.</li>
         </ExpSection>
         <ExpSection
             institute="Sinopac Holdings"
