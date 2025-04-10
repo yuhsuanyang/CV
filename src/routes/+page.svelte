@@ -36,7 +36,7 @@
              <!--li>Track: Intelligent Process Automation Specialisation</li-->
              <div class="flex gap-4">
                  <li>Expect to graduate in June 2025</li>
-                 <li>GPA: 4.636363636363/5</li>
+                 <li>GPA: 4.63</li>
              </div>
              <!--div class="flex gap-4">
                  <li>Coursework project: Portfolio Allocation with Reinforcement Learning (Did the RL algorithms from scartch and apply them to optimize the allocation between US bonds and emerging market stocks. The results beat the Min-Variance method.)
@@ -51,7 +51,7 @@
              >
              <div class="flex gap-4">
                  <li>GPA: 3.91/4.3</li>
-                <li>Dissertation: Dynamic Selection for Multivariate Time Series with Attention Networks</li>
+                <!--li>Dissertation: Dynamic Selection for Multivariate Time Series with Attention Networks</li-->
              </div>
              <!--li>Capstone project: YouTube MV View Counts Forecasting</li-->
         </ExpSection>
@@ -78,7 +78,6 @@
             position="Intern Analyst"
             duration="Jan. 2025 - March 2025"
             >
-            <li> This role implements LLM applications with LangChain to help with some business processes in the hedge fund company.
             <li>Automate financial document parsing task for the risk team by applying few-shot learning on LLM which reaches 90% accuracy and build Power BI dashboards on behalf of error analysis.</li>
             <li>Design a RAG-based lightweight chatbot that works with long documents by efficiently summarizing them and constructing vector databases. Improve the accurcy in the retrieval stage with a two-staged retrieval process.</li>
         </ExpSection>
