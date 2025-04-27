@@ -33,14 +33,11 @@
              position="Master of Science in Financial Technology (Intelligent Process Automation Specialisation)"
              duration="Aug. 2024 - now"
              >
-             <!--li>Track: Intelligent Process Automation Specialisation</li-->
              <div class="flex gap-4">
                  <li>Expect to graduate in June 2025</li>
                  <li>GPA: 4.63</li>
+                 <li> School Project: Statistical Arbitrage Strategy with Johansen Cointegration Test</li>
              </div>
-             <!--div class="flex gap-4">
-                 <li>Coursework project: Portfolio Allocation with Reinforcement Learning (Did the RL algorithms from scartch and apply them to optimize the allocation between US bonds and emerging market stocks. The results beat the Min-Variance method.)
-             </div-->
         </ExpSection>
 
         <ExpSection
@@ -80,6 +77,7 @@
             >
             <li>Automate financial document parsing task for the risk team by applying few-shot learning on LLM which reaches 90% accuracy and build Power BI dashboards on behalf of error analysis.</li>
             <li>Design a RAG-based lightweight chatbot that works with long documents by efficiently summarizing them and constructing vector databases. Improve the accurcy in the retrieval stage with a two-staged retrieval process.</li>
+            <li> Develop a web scraping tool to download trading reports received from financial institutions.</li>
         </ExpSection>
         <ExpSection
             institute="Sinopac Holdings"
@@ -113,9 +111,10 @@
         </ProjectSection>
         <ProjectSection
             projectName="Bloomberg for Education"
-            duration="Nov. 2024"
+            duration="Oct. 2024~April 2025"
             >
-            <li>Bloomberg Financial Fundamental: Gain knowledge of financial markets, risk and reward and portfolio management in the online courses.</li>
+            <li>Bloomberg Financial Fundamental: Gain knowledge of financial markets, risk and reward and portfolio management.</li>
+            <li>Bloomberg Market Concepts: Delve into concepts of financial instruments such as commodities, fixed income, equities and options.</li>
         </ProjectSection>
         <ExpSection
             institute="JPMorgan Chase & Co."
