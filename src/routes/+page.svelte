@@ -77,7 +77,7 @@
             >
             <li>Automate financial document parsing task for the risk team by applying few-shot learning on LLM which reaches 90% accuracy and build Power BI dashboards on behalf of error analysis.</li>
             <li>Design a RAG-based lightweight chatbot that works with long documents by efficiently summarizing them and constructing vector databases. Improve the accurcy in the retrieval stage with a two-staged retrieval process.</li>
-            <li> Develop a web scraping tool to automatically download trading reports received from financial institutions.</li>
+            <li> Develop a web scraping tool to automatically download trading reports received from financial institutions. Database management is implemented by ORM.</li>
         </ExpSection>
         <ExpSection
             institute="Sinopac Holdings"
@@ -135,6 +135,7 @@
             <SkillSet skillType="Finance" skills="Quantitative methods in risk and analysis"/>
             <SkillSet skillType="Web development" skills="HTML, CSS, Svelte, Django"/>
             <SkillSet skillType="Language proficiencies" skills="Mandarin(native), English(IELTS 7)"/>
+            <SkillSet skillType="Database" skills="ORM, MSSQL, PostgreSQL"/>
         </div>
     </div>
 </div>
