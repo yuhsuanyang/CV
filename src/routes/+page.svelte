@@ -70,6 +70,14 @@
         <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Work Experience</div>
 
         <ExpSection
+            institute="FTSE Russell, An LSEG Business"
+            location="Taipei, Taiwan"
+            position="Senior Process Automation Specialist"
+            duration="July 2025 - now"
+            >
+	    <li>Develop a web app to automate the index review process, which had been done manually. The system reduce the time needed to complete the tasks into seconds. </li>
+        </ExpSection>
+        <ExpSection
             institute="RV Capital Management"
             location="Singapore"
             position="Intern Analyst"
