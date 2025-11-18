@@ -95,7 +95,7 @@
         </ExpSection>
     </div>
     <div class="mx-8">
-        <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Extracurricular Certificates and Projects</div>
+        <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Certificates</div>
         <ProjectSection
             projectName="Bloomberg for Education"
             duration="Oct. 2024~April 2025"
