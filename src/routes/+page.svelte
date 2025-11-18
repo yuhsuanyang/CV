@@ -31,12 +31,9 @@
              institute="Nanyang Technological University"
              location="Singapore"
              position="Master of Science in Financial Technology (Intelligent Process Automation Specialisation)"
-             duration="Aug. 2024 - now"
+             duration="Aug. 2024 - June 2025"
              >
              <div class="flex gap-4">
-                 <li>Expect to graduate in June 2025</li>
-                 <li>GPA: 4.63</li>
-                 <li> School Project: Statistical Arbitrage Strategy with Johansen Cointegration Test</li>
              </div>
         </ExpSection>
 
@@ -47,10 +44,7 @@
              duration="Sept. 2018 - June 2020"
              >
              <div class="flex gap-4">
-                 <li>GPA: 3.91/4.3</li>
-                <!--li>Dissertation: Dynamic Selection for Multivariate Time Series with Attention Networks</li-->
              </div>
-             <!--li>Capstone project: YouTube MV View Counts Forecasting</li-->
         </ExpSection>
         <ExpSection
              institute="National Cheng Kung University"
@@ -60,8 +54,6 @@
              >
              <div class="flex gap-4">
                  <li>Minor: Mathematics</li>
-                 <li>GPA: 4.15/4.3</li>
-                <li>Honors: 2014 Academic Achievement Award</li>
              </div>
         </ExpSection>
     </div>
@@ -75,7 +67,9 @@
             position="Senior Process Automation Specialist"
             duration="July 2025 - now"
             >
-	    <li>Develop a web app to automate the index review process, which had been done manually. The system reduce the time needed to complete the tasks into seconds. </li>
+	    <li>Develop a module-based automation tool for the index review process, which had been done manually. This system enables index reviewers to design the index construction process by a drag-and-drop UI.</li>
+	    <li>Propose a general method to automate the rebalancing process, including constituent weights adjustments and reallocation. This optimization reduces at least 4 times of the code base complextity.</li>
+	    <li>Maintain documentation and guidelines for users to understand the modules functionality.</li>
         </ExpSection>
         <ExpSection
             institute="RV Capital Management"
@@ -103,47 +97,31 @@
     <div class="mx-8">
         <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Extracurricular Certificates and Projects</div>
         <ProjectSection
-            projectName="Dashboard to Dream Job: Career Success through Power BI Bootcamp"
-            duration="March. 2025"
-            >
-            <li>Navigate Power BI interfaces, data integrity maintenance and conduct data modeling.</li>
-            <li>Data preprocessing with DAX and optimizing dashboards with other advanced visualization features. </li>
-
-        </ProjectSection>
-        <ProjectSection
-            projectName="Big Data Workshop"
-            duration="Nov. 2024"
-            >
-            <li>Learned about distribution computing systems with GCP (Google Cloud Platform). Got hands-on experience in using Hadoop, Hive and Spark to perform data analysis.
-  </li>
-        </ProjectSection>
-        <ProjectSection
             projectName="Bloomberg for Education"
             duration="Oct. 2024~April 2025"
             >
             <li>Bloomberg Financial Fundamental: Gain knowledge of financial markets, risk and reward and portfolio management.</li>
             <li>Bloomberg Market Concepts: Delve into concepts of financial instruments such as commodities, fixed income, equities and options.</li>
         </ProjectSection>
-        <ExpSection
-            institute="JPMorgan Chase & Co."
-            location="www.theforage.com"
-            position="Quantitative Research Virtual Experience Program"
-            duration="Sept. 2024"
-            >
-            <li>Credit risk analysis: Converted FICO scores into categorical data with hyperopt and used decision trees to predict the customers' probability of default by loan data.</li>
-            <li>Commodity storage contract price modeling: Used linear regression and cosine function to model both the periodicity and increment in natural gas data. Given injection, withdrawal and storage conditions (dates, rates, prices, cost, etc), calculated the value of the commodity contract.</li>
-        </ExpSection>
     </div>
 
     <div class="mx-8">
         <div class="border-b-2 text-lg font-bold my-1 py-1 text-sky-600">Technical Skills</div>
-        <div class="grid grid-cols-2 my-2">
-            <SkillSet skillType="Programming" skills="C++, Python, SQL, Golang"/>
-            <SkillSet skillType="AI & ML" skills="scikit-learn, Pytorch, LangChain"/>
+        <div class="grid grid-cols-[2fr_3fr] my-2">
+            <SkillSet skillType="Programming" skills="C++, Python, SQL, Golang, Java"/>
+
             <SkillSet skillType="Finance" skills="Quantitative methods in risk and analysis"/>
-            <SkillSet skillType="Web development" skills="HTML, CSS, Svelte, Django"/>
-            <SkillSet skillType="Language proficiencies" skills="Mandarin(native), English(IELTS 7)"/>
-            <SkillSet skillType="Database" skills="ORM, MSSQL, PostgreSQL"/>
+            <SkillSet skillType="AI & ML" skills="scikit-learn, Pytorch, LangChain"/>
+
+
+	    <SkillSet skillType="Cloud Platform" skills="GCP, AWS"/>
+	    <SkillSet skillType="Database" skills="MSSQL, PostgreSQL"/>
+
+            <SkillSet skillType="Web Development" skills="Svelte, React, Django, Spring Boot"/>
+
+
+            <SkillSet skillType="Language" skills="Mandarin(native), English(IELTS 7)"/>
+
         </div>
     </div>
 </div>
