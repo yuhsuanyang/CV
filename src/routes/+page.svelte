@@ -89,7 +89,7 @@
             >
             <li>Reinforcement learning in asset allocation: Aimed to maintain a portfolio of stocks that can beat the TWSE market based on their profile and transaction behaviors.</li>
             <li>Machine learning pipelines for customer analysis: Predicted the preferences of customers in certain financial products or campaigns based on their profile and transaction behaviors.</li>
-            <li>Workload Orchestration: Optimized the utilization of computational resources in the development environment by k8s and docker. Currently working on single sign-on services.</li>
+            <li>Workload Orchestration: Optimized the utilization of computational resources in the development environment by k8s and docker.</li>
             <li>Risk and control self-assessment automation: Developed a pipeline to summarize the assessment advice from the risk control department by LLM, clustering and classification. </li>
             <li>Dojo for rapid AI demonstration: Designed a platform for displaying the GenAI and LLM applications developed by DTD. Responsible for front-end development.</li>
         </ExpSection>
