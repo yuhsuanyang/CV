@@ -68,7 +68,7 @@
             duration="July 2025 - now"
             >
 	    <li>Develop a module-based automation tool for the index review process, which had been done manually. This system enables index reviewers to design the index construction process by a drag-and-drop UI.</li>
-	    <li>Propose a general method to automate the rebalancing process, including constituent weights adjustments and reallocation. This optimization reduces at least 4 times of the code base complextity.</li>
+	    <li>Propose a general method to automate the rebalancing process, including constituent weights adjustments and reallocation. This optimization reduces at least 4 times of the code base complexity.</li>
 	    <li>Maintain documentation and guidelines for users to understand the modules functionality.</li>
         </ExpSection>
         <ExpSection
@@ -78,7 +78,7 @@
             duration="Jan. 2025 - March 2025"
             >
             <li>Automate financial document parsing task for the risk team by applying few-shot learning on LLM which reaches 90% accuracy and build Power BI dashboards on behalf of error analysis.</li>
-            <li>Design a RAG-based lightweight chatbot that works with long documents by efficiently summarizing them and constructing vector databases. Improve the accurcy in the retrieval stage with a two-staged retrieval process.</li>
+            <li>Design a RAG-based lightweight chatbot that works with long documents by efficiently summarizing them and constructing vector databases. Improve the accuracy in the retrieval stage with a two-staged retrieval process.</li>
             <li> Develop a web scraping tool to automatically download trading reports received from financial institutions. Database management is implemented by ORM.</li>
         </ExpSection>
         <ExpSection
