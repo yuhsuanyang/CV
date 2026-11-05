@@ -4,7 +4,7 @@
 </script>
 <div class="flex justify-between my-2">
     <p class="font-bold">{projectName}</p>
-    <p ckass="italic ">{duration}</p>
+    <p class="italic">{duration}</p>
 </div>
 <div class="ml-4">
     <slot/>

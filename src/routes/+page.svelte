@@ -67,9 +67,11 @@
             position="Senior Process Automation Specialist"
             duration="July 2025 - now"
             >
-	    <li>Develop a module-based automation tool for the index review process, which had been done manually. This system enables index reviewers to design the index construction process by a drag-and-drop UI.</li>
-	    <li>Propose a general method to automate the rebalancing process, including constituent weights adjustments and reallocation. This optimization reduces at least 4 times of the code base complexity.</li>
-	    <li>Maintain documentation and guidelines for users to understand the modules functionality.</li>
+	    <li>Developed a module-based automation tool for the index review process, which had been done manually. This system enables index reviewers to design the index construction process by a drag-and-drop UI.</li>
+	    <li>Proposed a general method to automate the rebalancing process, including constituent weights adjustments and reallocation. This optimization reduces at least 4 times of the code base complexity.</li>
+	    <li>Maintained documentation and guidelines for users to understand the modules functionality.</li>
+	    <li> Automated the fixed income data production process. Delivered the solution across the full software development lifecycle, including POC, SIT and UAT.</li>
+	    <li>Gathered and translated business requirements into technical specifications through active stakeholder engagement.</li> 
         </ExpSection>
         <ExpSection
             institute="RV Capital Management"
